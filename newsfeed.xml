@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urec>
+	<news newsid="1234567890">
+		<title>Test</title>
+		<author fname="miguel" lname="alvarez">Miguel Alvarez</author>
+		<date>09-19-2011</date>
+		<content>XYZ</content>
+	</news>
+	<news newsid="8957468873" >
+		<title>TEST</title>
+		<author fname="william" lname="vega">WIlliam Vega</author>
+		<date>09-19-2011</date>
+		<content>XYZ</content>
+	</news>
+</urec>
